@@ -1,0 +1,27 @@
+{
+  "name": "dockertest",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000D\u0000o\u0000c\u0000k\u0000e\u0000r\u0000-\u0000T\u0000e\u0000s\u0000t\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skoegle-Tech/Docker-Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Skoegle-Tech/Docker-Test/issues"
+  },
+  "homepage": "https://github.com/Skoegle-Tech/Docker-Test#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.9"
+  }
+}
